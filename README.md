@@ -4,6 +4,7 @@
 Para instalar o SDK da graalvm você pode utiliar o SDKMAN, para instalar use o comando
   
   $ curl -s "https://get.sdkman.io" | bash
+  
   $ source "$HOME/.sdkman/bin/sdkman-init.sh"
 
 Estou utilizando o graalvm na versão 20.2.0, para instalar 
